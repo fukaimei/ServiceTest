@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ServiceTest</string>
+    <string name="pause_event">com.fukaimei.servicetest.service.pause</string>
+</resources>
